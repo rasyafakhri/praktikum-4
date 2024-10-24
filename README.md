@@ -170,8 +170,7 @@ public class Main {
     }
 }
 ```
-# Output
-<img src=output1.png>
+
 
 # Kesimpulan:
 
