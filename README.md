@@ -1,6 +1,4 @@
 # Latihan Inheritance
-# Soal
-<img src= "soal.jpeg">
 
 # 1. Kelas ```Pegawai``` (Superclass)
 a. Atribut (```nama``` dan ```gajiPokok```)
